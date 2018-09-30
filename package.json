@@ -1,0 +1,19 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "deprecated": false,
+  "description": "find seo defects",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mocha": "^5.1.1",
+    "should": "^13.2.1"
+  },
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*.js --reporter spec"
+  }
+}
