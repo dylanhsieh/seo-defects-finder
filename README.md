@@ -54,7 +54,7 @@ config
 // check if there is a tag without specific attribute
 findTagAttr('a', 'rel'); // check if there is a a tag without rel attribute
 findTagAttr('img', 'alt'); // check if there is a img tag without alt attribute
-
+
 // check if there are too many tags in html
 findTagNumber('strong', 15); // check if there are more than 15 strong tag in html
 findTagNumber('H1', 1); // check if there are more than 1 H1 tag in html
