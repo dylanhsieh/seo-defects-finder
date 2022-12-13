@@ -1,12 +1,12 @@
 {
   "bundleDependencies": false,
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2"
+    "cheerio": "^1.0.0-rc.12"
   },
   "deprecated": false,
   "description": "find seo defects",
   "devDependencies": {
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0-rc.12",
     "mocha": "^5.1.1",
     "should": "^13.2.1"
   },
